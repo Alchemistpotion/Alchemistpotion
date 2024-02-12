@@ -11,7 +11,7 @@
  
  I’m currently learning **C++**
 
-Ask me about **anything [here](https://github.com/Alchemistwithpotion/Alchemistwithpotion/issues)**
+Ask me **anything [here](https://github.com/Alchemistwithpotion/Alchemistwithpotion/issues)**
 
  </div>
 
