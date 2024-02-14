@@ -20,7 +20,7 @@ Ask me **anything [here](https://github.com/Alchemistwithpotion/Alchemistwithpot
 <div align="center">
   <h2>My Contributions</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Alchemistwithpotion/Alchemistwithpotion/output/github-snake-dark.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Alchemistwithpotion/Alchemistwithpotion/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
